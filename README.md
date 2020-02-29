@@ -10,6 +10,6 @@ RTC : ZS-042
 
 IDE :Arduino
 
-## objective
+## Objective
 
 interactive control via Serial et Test
